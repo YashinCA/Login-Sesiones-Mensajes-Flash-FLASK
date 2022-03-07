@@ -1,0 +1,1 @@
+from .configuraciones import Config
